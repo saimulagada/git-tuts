@@ -40,7 +40,7 @@
 .navbar ul li a.active,
 .navbar ul li a:hover{
     background-color:red;
-    border-radius:2px;
+    border-radius:2.1px;
 }
 .wrapper .center{
     position:absolute;
